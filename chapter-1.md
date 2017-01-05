@@ -578,29 +578,29 @@ Questions
 
 A project is an endeavor to accomplish a specific objective through a unique set of interrelated activities and the effective utilization of resources.
 
-1.  Define the term project objective and give some examples.
+2.  Define the term project objective and give some examples.
 
 A project has a well-defined objective—an expected result or product. The objective of a project is usually defined in terms of scope, schedule, and cost. Furthermore, it is expected that the work scope will be accomplished in a quality manner and to the customer’s satisfaction.
 
 An example is to produce 5,000 two-page, marketing brochures by July 1 for a cost of \$15,000.
 
-1.  List some examples of resources that are used on a project.
+3.  List some examples of resources that are used on a project.
 
 People, equipment, money, materials, etc.
 
-1.  What role does a customer have during the project life cycle? Why is it important to satisfy the customer?
+4.  What role does a customer have during the project life cycle? Why is it important to satisfy the customer?
 
 The customer should be involved throughout the project life cycle.
 
 The customer is the one who is paying for the project. Unsatisfied customers have been known to withhold payments, never call you again for repeat business, and spread word of their dissatisfaction. On the other hand, a satisfied customer will do the opposite of those things.
 
-1.  What aspects of a project might involve some degree of uncertainty? Why?
+5.  What aspects of a project might involve some degree of uncertainty? Why?
 
 Many aspects can have some degree of uncertainty, such as the schedule or the budget. An unexpected snowstorm may delay a highway construction project and increased lumber prices may increase the cost of building a new home.
 
 Not everything in a project can be planned, scheduled, or budgeted.
 
-1.  Define scope, schedule, cost, and customer satisfaction. Why are these considered to be constraints?
+6.  Define scope, schedule, cost, and customer satisfaction. Why are these considered to be constraints?
 
 The scope of a project is all the work that must be done in order to satisfy the customer that the deliverables meet the requirements or acceptance criteria agreed upon at the onset of the project.
 
@@ -612,7 +612,7 @@ Customer Satisfaction is the level to which the customer is pleased with the end
 
 The objective of any project is to complete the scope within budget by a certain time to the customer’s satisfaction. Any of these four factors can put limitations on the final product.
 
-1.  List and describe the main phases of the project life cycle.
+7.  List and describe the main phases of the project life cycle.
 
 The first is the initiating phase, when projects are identified and selected. They are then authorized, using a document referred to as a project charter.
 
@@ -622,47 +622,47 @@ In the third phase, the performing phase, the project plan is executed, and work
 
 The final phase of the project life cycle is the closing phase. Project evaluations are conducted, lessons learned are identified and documented to help improve performance on future projects, and project documents are organized and archived.
 
-1.  List and describe the steps required to develop a baseline plan.
+8.  List and describe the steps required to develop a baseline plan.
 
-2.  Establish project objective -- clearly define the project objective and have it agreed upon by the sponsor or customer.
+    1.  Establish project objective -- clearly define the project objective and have it agreed upon by the sponsor or customer.
 
-3.  Define scope -- include customer requirements, define the major work activities or elements, and provide a list of deliverables and associated acceptance criteria that can be used to verify that the work and deliverables meet specifications
+    2.  Define scope -- include customer requirements, define the major work activities or elements, and provide a list of deliverables and associated acceptance criteria that can be used to verify that the work and deliverables meet specifications
 
-4.  Create a work breakdown structure -- divide and subdivide the project scope into pieces or work packages.
+    3.  Create a work breakdown structure -- divide and subdivide the project scope into pieces or work packages.
 
-5.  Assign responsibility -- identify the person or organization responsible for each work item in the work breakdown structure
+    4.  Assign responsibility -- identify the person or organization responsible for each work item in the work breakdown structure
 
-6.  Define the specific activities -- develop the list of detailed activities that need to be performed for each work package to produce any required deliverables.
+    5.  Define the specific activities -- develop the list of detailed activities that need to be performed for each work package to produce any required deliverables.
 
-7.  Sequence activities -- graphically portray the activities in a network diagram to display the sequence and dependent relationships of the detailed activities.
+    6.  Sequence activities -- graphically portray the activities in a network diagram to display the sequence and dependent relationships of the detailed activities.
 
-8.  Estimate activity resources -- determine which types and skills or expertise of resources and how many of each resource are needed for each activity with consideration of the availability of the resources.
+    7.  Estimate activity resources -- determine which types and skills or expertise of resources and how many of each resource are needed for each activity with consideration of the availability of the resources.
 
-9.  Estimate activity durations -- make a time estimate for how long it will take to complete each activity, based on the estimate of the resources that will be applied.
+    8.  Estimate activity durations -- make a time estimate for how long it will take to complete each activity, based on the estimate of the resources that will be applied.
 
-10. Develop the project schedule -- develop the overall project schedule, including when each activity is expected to start and finish, as well as the latest times that each activity must start and finish in order to complete the project by the project required completion date.
+    9. Develop the project schedule -- develop the overall project schedule, including when each activity is expected to start and finish, as well as the latest times that each activity must start and finish in order to complete the project by the project required completion date.
 
-11. Estimate activity costs -- determine the costs for the types and quantities of resources estimated for each activity using the appropriate labor cost rate or unit cost for each type of resource.
+    10. Estimate activity costs -- determine the costs for the types and quantities of resources estimated for each activity using the appropriate labor cost rate or unit cost for each type of resource.
 
-12. Determine budget -- aggregate the cost estimates for each activity.
+    11. Determine budget -- aggregate the cost estimates for each activity.
 
-13. Why must a manager monitor the progress of a project? What can be done if a project is not proceeding according to plan?
+9. Why must a manager monitor the progress of a project? What can be done if a project is not proceeding according to plan?
 
 A manager must monitor progress to ensure that everything is going according to plan. It is also necessary to measure actual progress and compare it to planned progress.
 
 If at any time during the project the comparison of actual to planned progress reveals that the project is behind schedule, overrunning the budget, or not meeting the technical specifications, corrective action must be taken to get the project back on track within the scope, schedule, and budget constraints of the project objective. These actions include adding or changing resources to make up time and get back on schedule.
 
-1.  Think of a project in which you were involved and identify the stakeholders and what “stake” each had in the project.
+10.  Think of a project in which you were involved and identify the stakeholders and what “stake” each had in the project.
 
 Answers to this question will vary depending on the student. Check responses to be sure they include the individuals and entities involved in, or who may influence, or may be affected by a project and what stake each had in the project.
 
-1.  Describe how a global project can be more complex than a project performed within just one country. How might these elements affect the successful outcome of the global project?
+11.  Describe how a global project can be more complex than a project performed within just one country. How might these elements affect the successful outcome of the global project?
 
 Global projects have several unique influencing factors such as currency fluctuations and exchange rates, country-specific work codes and regulations, corporate joint ventures and partnerships creating entities with a presence and facilities in multiple countries, political relations between countries, and availability of high-demand workforce skills.
 
 Globalization changes the dynamics of the project and adds a layer of complexity that can adversely affect the project outcome if the project participants are not aware of what they might encounter in the way of cultural differences and multinational economic transactions.
 
-1.  List some benefits of using project management techniques.
+12.  List some benefits of using project management techniques.
 
 -   The ultimate benefit of implementing project management techniques is having a satisfied customer.
 
@@ -678,16 +678,16 @@ Globalization changes the dynamics of the project and adds a layer of complexity
 
 -   When projects are successful, everybody wins!
 
-1.  Consider a project in which you are currently involved (or in which you have recently been involved).
+13.  Consider a project in which you are currently involved (or in which you have recently been involved).
 
-2.  Describe the objectives, scope, schedule, cost, and any assumptions made.
+a.  Describe the objectives, scope, schedule, cost, and any assumptions made.
 
-3.  Where are you in the project life cycle?
+b.  Where are you in the project life cycle?
 
-4.  Does this project have a baseline plan? If yes, describe it. If not, create it.
+c.  Does this project have a baseline plan? If yes, describe it. If not, create it.
 
-5.  Are you or is anyone else monitoring the progress of the project? If so, how? If not, how could you do so?
+d.  Are you or is anyone else monitoring the progress of the project? If so, how? If not, how could you do so?
 
-6.  Describe some unexpected circumstances that could jeopardize the success of the project.
+e.  Describe some unexpected circumstances that could jeopardize the success of the project.
 
-7.  Describe the anticipated benefits of the project.
+f.  Describe the anticipated benefits of the project.
