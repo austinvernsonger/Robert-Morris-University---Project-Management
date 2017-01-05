@@ -13,7 +13,7 @@ Comparisons must be made among these three parameters to evaluate whether the pr
 
 If at any time during the project it is determined that the project is overrunning the budget or the value of the work performed is not keeping up with the actual cost expended, corrective action must be taken immediately. Once project costs get out of control, it will be very difficult to complete the project within budget. As you will see in this chapter, the key to effective cost control is to analyze cost performance on a timely and regular basis. Early identification of cost variances allows corrective action to be taken before the situation gets worse. Based on the actual cost expended and the earned value of the work performed, you will learn how to regularly forecast whether the entire project will be completed within budget.
 
-Based upon this chapter, students will become familiar with
+Based upon this chapter, you will become familiar with:
 
 -   Estimating the costs of activities
 
@@ -32,7 +32,7 @@ Based upon this chapter, students will become familiar with
 Learning Outcomes
 =================
 
-After studying this chapter, the learner should be able to:
+After studying this chapter, the you should be able to:
 
 -   Estimate the cost of activities
 
@@ -53,27 +53,7 @@ After studying this chapter, the learner should be able to:
 Project Management Knowledge Areas from PMBOK® Guide
 ====================================================
 
-Concepts in this chapter support the following Project Management Knowledge Areas of
-
-*A Guide to the Project Management Body of Knowledge (PMBOK*<sup>®</sup> *Guide*):
-
 -   Project Cost Management
-
-Teaching Strategies
-===================
-
-1.  The two vignettes reinforce the requirement to use lessons learned to inform the next project, increase consideration of risk management, have change control strategies, set appropriate responsibilities, have a communication plan, have procedures for addressing common issues, organize project sites, and align stakeholders. The goal is to detect and curb systematic cost underestimation and manage scope changes to avoid cost and schedule overruns.
-
-<!-- -->
-
-1.  Tell students a story of a project that has spent all its money but hasn't finished all the tasks. Have students determine what could have been done to avoid the situation, remedy the situation, or absorb the cost overruns.
-
-2.  Have students use a work breakdown structure and network diagram for a project they will have to complete during the class semester to develop the costs. Have the students estimate the earned value at different time periods of the project given a scenario on how far along they have completed their projects.
-
-3.  Have students simulate actual completion dates for the consumer market study in Microsoft Project to see how they accumulated actual costs and earned value change over time.
-
-Lecture Notes
-=============
 
 1. Real-World Project Management Examples
 -----------------------------------------

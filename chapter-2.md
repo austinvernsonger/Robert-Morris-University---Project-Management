@@ -1,7 +1,7 @@
 Chapter 2
 =========
 
-This chapter discusses the initiating phase of the project life cycle. Based upon this chapter, students will become familiar with:
+This chapter discusses the initiating phase of the project life cycle:
 
 -   How projects are identified and selected
 
@@ -14,7 +14,7 @@ This chapter discusses the initiating phase of the project life cycle. Based upo
 Learning Outcomes
 =================
 
-After studying this chapter, the learner should be able to:
+After studying this chapter, you should be able to:
 
 -   Discuss how projects are identified
 
@@ -29,16 +29,10 @@ After studying this chapter, the learner should be able to:
 Project Management Knowledge Areas from PMBOK® Guide
 ====================================================
 
-Concepts in this chapter support the following Project Management Knowledge Areas of
-
-*A Guide to the Project Management Body of Knowledge (PMBOK® Guide):*
-
 -   Project Integration Management
 
 -   Project Procurement Management
 
-Lecture Notes
-=============
 
 1. Real-World Project Management Examples
 -----------------------------------------
@@ -124,6 +118,7 @@ A fleet management department completed a number of projects to increase the pro
     -   Reduction of administrative paperwork
 
 Have students discuss why there was such success. What could have happened to cause the project to fail?
+
 
 2. Project Identification
 -------------------------

@@ -5,7 +5,7 @@ This chapter covers the development of proposals by interested contractors in re
 
 For some projects, there is neither a request for proposal nor an actual proposal; rather, after the need is identified, the project moves right into the planning and performing phases of the project life cycle. Examples include a project that one or two individuals do by themselves, such as remodeling their basement into a family room, or a project carried out by a volunteer group, such as organizing a fundraising event.
 
-Based upon this chapter, students will become familiar with the
+Based upon this chapter, you will become familiar with:
 
 -   Building relationships with customers and partners
 
@@ -30,7 +30,7 @@ Based upon this chapter, students will become familiar with the
 Learning Outcomes
 =================
 
-After studying this chapter, the learner should be able to:
+After studying this chapter, the you should be able to:
 
 -   Develop relationships with customers and partners
 
@@ -49,27 +49,8 @@ After studying this chapter, the learner should be able to:
 Project Management Knowledge Areas from PMBOK® Guide
 ====================================================
 
-Concepts in this chapter support the following Project Management Knowledge Areas of
-
-*A Guide to the Project Management Body of Knowledge (PMBOK*® *Guide*):
-
 -   Project Procurement Management
 
-Teaching Strategies
-===================
-
-1.  The two vignettes reinforce the need to develop a relationship with an organization before submitting a proposal to an RFP. It is not always enough to have a competitive proposal to win a bid. Having a relationship during the pre-RFP stage and after the project is complete is helpful for future projects and business opportunities. The vignettes also reinforce the necessity to listen to the customer's need and reflect an understanding of the need, problem, or opportunity within each of the three sections of the proposal.
-
-2.  Have the students read the case studies in class and answer the questions in groups of three or four. Next, select five participants to act out the group activity. This is an excellent way to stimulate class discussion and interest. It is also a good idea to present a case study right before you lecture on this chapter and then again after you lecture on the chapter. The difference in responses “before” and “after” will reinforce the topics covered.
-
-3.  Try to bring as many real-world examples as possible into each discussion section. Always ask the students whether they can think of any examples that apply. This will help keep the class interaction high.
-
-4.  Ask your students whether they have ever seen or written a proposal.
-
-5.  Ask your students what is more important—developing a quality proposal or doing a quality job. Let them debate this chicken and the egg issue.
-
-Lecture Notes
-=============
 
 1. Real-World Project Management Examples
 -----------------------------------------

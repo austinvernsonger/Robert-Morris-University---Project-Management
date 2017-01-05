@@ -5,7 +5,7 @@ The consideration of resources adds another dimension to planning and scheduling
 
 In many projects, the quantities of the various types of resources available to perform the project activities are limited. Several activities may require the same resources at the same time, and there may not be sufficient resources available to satisfy all the demands. In a sense, these activities are competing for the use of the same resources. If sufficient resources are not available when required, some activities may have to be delayed until a later time when resources are available for them. Therefore, resources can constrain the project schedule. They can also be a constraint to completing the project within budget if it is determined that additional resources are needed to complete the project by its required completion time. This chapter covers several approaches to incorporating resource considerations into the project plan and schedule.
 
-Based upon this chapter, students will become familiar with
+Based upon this chapter, you will become familiar with
 
 -   Taking resource constraints into account when developing a network diagram
 
@@ -18,7 +18,7 @@ Based upon this chapter, students will become familiar with
 Learning Outcomes
 =================
 
-After studying this chapter, the learner should be able to:
+After studying this chapter, the you should be able to:
 
 -   Create a network diagram that takes resource constraints into account
 
@@ -31,31 +31,7 @@ After studying this chapter, the learner should be able to:
 Project Management Knowledge Areas from PMBOK® Guide
 ====================================================
 
-Concepts in this chapter support the following Project Management Knowledge Areas of
-
-*A Guide to the Project Management Body of Knowledge (PMBOK*<sup>®</sup> *Guide*):
-
 -   Project Human Resource Management
-
-Teaching Strategies
-===================
-
-1.  The two vignettes in this chapter reinforce the need think creatively about the constraints of a project. Projects have the potential to make innovative changes and must include concern for the community, culture, and socioeconomic characteristics of the stakeholders.
-
-2.  In the first vignette, project teams need to consider sources of funding and support to impact the potential 10-fold increase in the development of healthcare apps that could reduce the number of deaths attributed to chronic diseases. Students could consider how to propose the potential projects to funders or what type of team would be needed to develop the apps.
-
-3.  The second vignette portrays the complexity of projects around the world to transform regions to have positive community impact, economic viability, and sustainable ecological footprints. Project and program managers will be in charge of teams that must address a number of project constraints and complex systems. Students could review the success of these projects and find other projects that are similar.
-
-4.  Good project management utilizes techniques that work in complex situations. The solution to a project problem can be as simple as a spreadsheet. Solutions are not always complex.
-
-5.  An example of resource leveling is presented in the text. Images are given to help show the results of the process for leveling resources.
-
-6.  Ask the students why it is important to consider resources when planning and managing a project. Will the number of resources available affect the completion date? If you had 2 experienced people building a house, would it take as long as if you had 10 experienced people building a house? What would happen if you started with 10 and half of them quit?
-
-7.  Describe examples you have encountered when resources were limited and a project needed to be done.
-
-Lecture Notes
-=============
 
 1. Real-World Project Management Examples
 -----------------------------------------

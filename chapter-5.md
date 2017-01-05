@@ -3,7 +3,7 @@
 
 This chapter discusses monitoring and controlling the progress of the project, replanning, and updating the project schedule. Once a project actually starts, it is necessary to monitor progress to ensure that everything is going according to schedule. This involves measuring actual progress and comparing it to the schedule. If at any time during the project it is determined that the project is behind schedule, corrective action must be taken to get back on schedule, which can be very difficult if a project gets too far behind.
 
-Based upon this chapter, students will become familiar with
+Based upon this chapter, you will become familiar with
 
 -   Estimating the resources required for each activity
 
@@ -34,7 +34,7 @@ Based upon this chapter, students will become familiar with
 Learning Outcomes
 =================
 
-After studying this chapter, the learner should be able to:
+After studying this chapter, the you should be able to:
 
 -   Estimate the resources required for activities
 
@@ -61,29 +61,9 @@ After studying this chapter, the learner should be able to:
 Project Management Knowledge Areas from PMBOK® Guide
 ====================================================
 
-Concepts in this chapter support the following Project Management Knowledge Areas of
-
-*A Guide to the Project Management Body of Knowledge (PMBOK*<sup>®</sup> *Guide*):
-
 -   Project Integration Management
 
 -   Project Time Management
-
-Teaching Strategies
-===================
-
-1.  The first vignette reinforces the need to plan for contingencies when developing the schedule to avoid schedule delays that cause the project to be over time.
-
-2.  The second vignette reinforces that implementing agile project management techniques can help save time and allow for increased project productivity.
-
-3.  Sometimes the calculated time is too long to complete the project, and time is removed from activities without considering whether the task can be completed in the shortened time. Have students plan the amount of time it would take to travel between two cities near your campus. After they calculate the time to travel, suggest events like a flat tire, the need to refill the fuel tank, the need to stop for food, or an accident that blocks traffic on the route they are traveling. Have students then consider the contingencies for traveling from one city to the other.
-
-4.  Have students calculate the ES, EF, LS, and LF times in class to be sure they understand what it means to calculate forward and to calculate backward.
-
-5.  The ES, EF, LS, LF times on the network diagram for the consumer market study are included in the chapter materials. Have the students compare the textbook diagram with the one schedule table created in Microsoft Project and report on the similarities and the differences.
-
-Lecture Notes
-=============
 
 1. Real-World Project Management Examples
 -----------------------------------------

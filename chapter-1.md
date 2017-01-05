@@ -1,7 +1,7 @@
 Chapter 1
 =========
 
-This chapter presents an overview of project management concepts.
+This chapter presents an overview of project management concepts:
 
 -   Definition of a project and its attributes
 
@@ -24,7 +24,7 @@ This chapter presents an overview of project management concepts.
 Learning Outcomes
 =================
 
-After studying this chapter, the learner should be able to:
+After studying this chapter, the you should be able to:
 
 -   Define what a project is
 
@@ -59,13 +59,11 @@ After studying this chapter, the learner should be able to:
 Project Management Knowledge Areas from PMBOK® Guide
 ====================================================
 
-Concepts in this chapter support the following Project Management Knowledge Areas of
-
-*A Guide to the Project Management Body of Knowledge (PMBOK*® *Guide*):
-
 -   Project Integration Management
 
 -   Project Stakeholder ManagementLecture Notes
+
+
 
 1. Real-World Project Management Examples
 -----------------------------------------

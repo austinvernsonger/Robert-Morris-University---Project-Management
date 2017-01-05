@@ -1,14 +1,13 @@
 # Chapter 8 #
 
 
-
-As mentioned in Chapter 1, one attribute of a project is that it involves a degree of uncertainty. Such uncertainty can impact the outcome of a project. Risk is an uncertain event that, if it occurs, can jeopardize accomplishing the project objective. Risk management involves identifying, assessing, and responding to project risks in order to minimize the likelihood of occurrence and/or potential impact of adverse events on the accomplishment of the project objective. Addressing risks proactively will increase the chances of accomplishing the project objective. Waiting for unfavorable events to occur and then reacting to them can result in panic and costly responses. Managing risk includes taking action to prevent or minimize the likelihood of occurrence or the impact of such unfavorable events.
+As mentioned in Chapter 1, one attribute of a project is that it involves a degree of uncertainty. Such uncertainty can impact the outcome of a project. Risk is an uncertain event that, if it occurs, can jeopardize accomplishing the project objective. Risk management involves identifying, assessing,and responding to project risks in order to minimize the likelihood of occurrence and/or potential impact of adverse events on the accomplishment of the project objective. Addressing risks proactively will increase the chances of accomplishing the project objective. Waiting for unfavorable events to occur and then reacting to them can result in panic and costly responses. Managing risk includes taking action to prevent or minimize the likelihood of occurrence or the impact of such unfavorable events.
 
 Some level of risk planning should be done during the initiating phase of the project life cycle to make sure, for example, that a contractor understands the risks involved with bidding on a proposed project. With knowledge of potential risks, the contractor can include contingency or management reserve amounts in the bid price. On the other hand, if the risks seem too great, the contractor may decide to not bid on a proposed project, as discussed in the decision to develop a proposal section in Chapter 3. Subsequently, more detailed risk planning should be done during the planning phase of a project.
 
 A project manager cannot be risk averse. She must accept that risk is a part of project management and has to address it head-on. Furthermore, the project manager needs to set the tone for encouraging open and timely discussion of risks among the project team.
 
-Based upon this chapter, students will become familiar with
+Based upon this chapter, you will become familiar with
 
 -   Identifying risks and their potential impact
 
@@ -21,7 +20,7 @@ Based upon this chapter, students will become familiar with
 Learning Outcomes
 =================
 
-After studying this chapter, the learner should be able to:
+After studying this chapter, the you should be able to:
 
 -   Discuss what is involved in managing risks
 
@@ -38,25 +37,7 @@ After studying this chapter, the learner should be able to:
 Project Management Knowledge Areas from PMBOK® Guide
 ====================================================
 
-Concepts in this chapter support the following Project Management Knowledge Areas of
-
-*A Guide to the Project Management Body of Knowledge (PMBOK*<sup>®</sup> *Guide*):
-
 -   Project Risk Management
-
-Teaching Strategies
-===================
-
-1.  The two vignettes reinforce the necessity of identifying, assessing, and managing risks in projects. The first vignette communicates that indirect risks must be managed as well as risks related to the work being performed on a project. The second vignette examines how global technology must be managed to help avoid problems when risks such as Hurricane Sandy, the earthquakes and tsunami in Japan, and cyber security attacks take place and potentially could cause problems for the financial system.
-
-2.  Risk assessment should be completed for every project. Have students identify risks associated with an activity of their choice, such as a concert that will occur in the area or their weekend plans. Ask them to evaluate the degree of impact and the likelihood of occurrence. Have other students offer techniques for managing the risk.
-
-3.  Have students examine a project that has recently appeared in the news and identify the risks that have caused (or might cause) the project to be delayed or to fail. Ask them to suggest how those risks might be mitigated.
-
-4.  The risks for the IS example are listed. Have students examine how to mitigate the risks suggested for software development projects.
-
-Lecture Notes
-=============
 
 1. Real-World Project Management Examples
 -----------------------------------------

@@ -3,7 +3,7 @@
 
 This chapter discusses the project scope document, quality, how to define what activities need to be done, who will be responsible for them, and in what sequence they will be performed. It describes techniques and tools used to plan the work items and activities that need to be performed in order to accomplish the project objective successfully. The project scope defines what work needs to be done and what deliverables need to be produced. Then, specific activities are defined and arranged in a sequence of dependent relationships to determine how the work will be performed.
 
-Based upon this chapter, students will become familiar with
+Based upon this chapter, you will become familiar with:
 
 -   Clearly defining the project objective
 
@@ -24,7 +24,7 @@ Based upon this chapter, students will become familiar with
 Learning Outcomes
 =================
 
-After studying this chapter, the learner should be able to:
+After studying this chapter, the you should be able to:
 
 -   Establish a clear project objective
 
@@ -43,10 +43,6 @@ After studying this chapter, the learner should be able to:
 Project Management Knowledge Areas from PMBOK® Guide
 ====================================================
 
-Concepts in this chapter support the following Project Management Knowledge Areas of
-
-*A Guide to the Project Management Body of Knowledge (PMBOK*<sup>®</sup> *Guide*):
-
 -   Project Integration Management
 
 -   Project Scope Management
@@ -55,19 +51,6 @@ Concepts in this chapter support the following Project Management Knowledge Area
 
 -   Project Time Management
 
-Teaching Strategies
-===================
-
-1.  The two vignettes reinforce the need to plan the project before starting to help save money, time, rework, and wasted effort. Have students work in groups and review one of the quotes from the vignettes then suggest how planning saved the project from being failures.
-
-2.  Sometimes planning seems to be a waste of time for a short project. Tell students a story of a failed project. Have students identify how having a clear project objective, a project scope document, a project plan, a work breakdown structure, a responsibility assignment matrix, and a network diagram could have changed the outcome
-
-3.  Have students create a work breakdown structure and network diagram for a project they will have to complete during the class semester. Have the students explain the relationship between tasks that must be completed sequentially and those that can be completed at the same time.
-
-4.  The network diagram for the consumer market study is included in the chapter materials. Have the students compare the textbook diagram with the one created in Microsoft Project and report on the similarities and the differences.
-
-Lecture Notes
-=============
 
 1. Real-World Project Management Examples
 -----------------------------------------
