@@ -352,19 +352,19 @@ Have students discuss why there was such success. What could have happened to ca
 Questions
 ---------
 
-1.  Why is it important to do a thorough and detailed job of needs identification?
+### 1.  Why is it important to do a thorough and detailed job of needs identification?
 
 It is important to thoroughly study the problem or opportunity in order to develop a quality RFP and/or quality solution. If the need isn’t clearly defined, you can’t expect the proposed solutions to be clearly defined either.
 
-2.  Describe a situation in your life in which you performed needs identification.
+### 2.  Describe a situation in your life in which you performed needs identification.
 
 Answers will vary from student to student but should contain a description of why the student identified the need, problem, or opportunity.
 
-3.  Why is it important to select the right project before you begin working?
+### 3.  Why is it important to select the right project before you begin working?
 
 In reality too many projects are started that should never have been. It is wise to take the time to decide which plans to address identified needs, problems, or opportunities should go forward as a project before you start working.
 
-4.  Describe how a business selects which projects to work on when there are numerous projects that could be done.
+### 4.  Describe how a business selects which projects to work on when there are numerous projects that could be done.
 
 A four-step process is recommended:
 
@@ -376,39 +376,39 @@ A four-step process is recommended:
 
     4.  Evaluate each opportunity against the criteria.
 
-5.  Which elements of a project charter would you use to help plan if you had a project that did not require a project charter? Why?
+### 5.  Which elements of a project charter would you use to help plan if you had a project that did not require a project charter? Why?
 
 Student responses will vary. Responses should include the elements of a project charter that describe the outcomes of the student's project with enough clarity for the contractor to deliver an approved product at the end of the project.
 
-6.  Give examples of situations in which a business might develop a request for proposal.
+### 6.  Give examples of situations in which a business might develop a request for proposal.
 
 There are many possible answers to this question. Some examples might include an RFP for a new billing system, an RFP for a comprehensive management training program, an RFP for a new heating system for a major office building, etc. Responses should include a description of an activity that cannot be completed by the organization or is better completed by an external resource or contractor.
 
-7.  Give examples of situations in which an individual might develop a request for proposal.
+### 7.  Give examples of situations in which an individual might develop a request for proposal.
 
 There are many possible answers to this question. Some examples might include an RFP for a new in-ground pool, a new deck, or a new house. These may or may not be written. Responses should include a description of an activity that cannot be completed by the person or is better completed by an external resource or contractor.
 
-8.  Why is it important for a business to try to quantify the expected benefits of implementing a solution to a problem?
+### 8.  Why is it important for a business to try to quantify the expected benefits of implementing a solution to a problem?
 
 If a business did not do this in advance, it might find that the costs of the solution exceed the benefits. In addition, because most businesses have limited resources, they must prioritize their projects based on the expected benefits.
 
-9.  What should be contained in a statement of work?
+### 9.  What should be contained in a statement of work?
 
 A statement of work should define the scope of the project and outline the tasks or work items to be performed. The SOW should be very precise.
 
-10.  What is meant by customer requirements? Why must they be precise?
+### 10.  What is meant by customer requirements? Why must they be precise?
 
 The RFP must include the customer requirements, which define specifications and attributes. Requirements cover size, quantity, color, weight, speed, performance, and other physical or operational parameters the contractor’s proposed solution must satisfy.
 
 These requirements must be very precise because this is what the contractor will use as a guideline as he or she develops the proposal and/or solution, and the customer may also use it as acceptance criteria for the project.
 
-11.  Why would an RFP state the approvals that will be required during the project? Give some examples.
+### 11.  Why would an RFP state the approvals that will be required during the project? Give some examples.
 
 It is important to state the approvals required during the project so the final solution matches what the customer expects. Examples include reviewing the design specifications for a house before construction begins, reviewing a prototype user interface for a new software system before coding begins, etc. Student examples will vary and should include projects that have a level of complexity where changes as the project advances could result in high costs.
 
-12.  Why would a customer give contractors instructions in the RFP to submit their proposals according to a standard format?
+### 12.  Why would a customer give contractors instructions in the RFP to submit their proposals according to a standard format?
 
 This is done so all proposals have a standard form and are thus easier to evaluate. Otherwise, for example, one proposal might be 5 pages and another might be 50 pages. One might include technical specifications and another might not.
 
-13.  Develop an RFP for a real-world project such as landscaping the grounds surrounding a nearby business office, building a deck for your house, or holding a big graduation celebration. Be creative in specifying your needs. Feel free to come up with unique ideas for the RFP.
+### 13.  Develop an RFP for a real-world project such as landscaping the grounds surrounding a nearby business office, building a deck for your house, or holding a big graduation celebration. Be creative in specifying your needs. Feel free to come up with unique ideas for the RFP.
 
