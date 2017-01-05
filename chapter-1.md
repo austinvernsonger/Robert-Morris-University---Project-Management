@@ -574,33 +574,33 @@ The ultimate benefit of implementing project management techniques is having a s
 Questions
 ---------
 
-1.  Define project.
+### 1.  Define project.
 
 A project is an endeavor to accomplish a specific objective through a unique set of interrelated activities and the effective utilization of resources.
 
-2.  Define the term project objective and give some examples.
+### 2.  Define the term project objective and give some examples.
 
 A project has a well-defined objective—an expected result or product. The objective of a project is usually defined in terms of scope, schedule, and cost. Furthermore, it is expected that the work scope will be accomplished in a quality manner and to the customer’s satisfaction.
 
 An example is to produce 5,000 two-page, marketing brochures by July 1 for a cost of \$15,000.
 
-3.  List some examples of resources that are used on a project.
+### 3.  List some examples of resources that are used on a project.
 
 People, equipment, money, materials, etc.
 
-4.  What role does a customer have during the project life cycle? Why is it important to satisfy the customer?
+### 4.  What role does a customer have during the project life cycle? Why is it important to satisfy the customer?
 
 The customer should be involved throughout the project life cycle.
 
 The customer is the one who is paying for the project. Unsatisfied customers have been known to withhold payments, never call you again for repeat business, and spread word of their dissatisfaction. On the other hand, a satisfied customer will do the opposite of those things.
 
-5.  What aspects of a project might involve some degree of uncertainty? Why?
+### 5.  What aspects of a project might involve some degree of uncertainty? Why?
 
 Many aspects can have some degree of uncertainty, such as the schedule or the budget. An unexpected snowstorm may delay a highway construction project and increased lumber prices may increase the cost of building a new home.
 
 Not everything in a project can be planned, scheduled, or budgeted.
 
-6.  Define scope, schedule, cost, and customer satisfaction. Why are these considered to be constraints?
+### 6.  Define scope, schedule, cost, and customer satisfaction. Why are these considered to be constraints?
 
 The scope of a project is all the work that must be done in order to satisfy the customer that the deliverables meet the requirements or acceptance criteria agreed upon at the onset of the project.
 
@@ -612,7 +612,7 @@ Customer Satisfaction is the level to which the customer is pleased with the end
 
 The objective of any project is to complete the scope within budget by a certain time to the customer’s satisfaction. Any of these four factors can put limitations on the final product.
 
-7.  List and describe the main phases of the project life cycle.
+### 7.  List and describe the main phases of the project life cycle.
 
 The first is the initiating phase, when projects are identified and selected. They are then authorized, using a document referred to as a project charter.
 
@@ -622,7 +622,7 @@ In the third phase, the performing phase, the project plan is executed, and work
 
 The final phase of the project life cycle is the closing phase. Project evaluations are conducted, lessons learned are identified and documented to help improve performance on future projects, and project documents are organized and archived.
 
-8.  List and describe the steps required to develop a baseline plan.
+### 8.  List and describe the steps required to develop a baseline plan.
 
     1.  Establish project objective -- clearly define the project objective and have it agreed upon by the sponsor or customer.
 
@@ -646,23 +646,23 @@ The final phase of the project life cycle is the closing phase. Project evaluati
 
     11. Determine budget -- aggregate the cost estimates for each activity.
 
-9. Why must a manager monitor the progress of a project? What can be done if a project is not proceeding according to plan?
+### 9. Why must a manager monitor the progress of a project? What can be done if a project is not proceeding according to plan?
 
 A manager must monitor progress to ensure that everything is going according to plan. It is also necessary to measure actual progress and compare it to planned progress.
 
 If at any time during the project the comparison of actual to planned progress reveals that the project is behind schedule, overrunning the budget, or not meeting the technical specifications, corrective action must be taken to get the project back on track within the scope, schedule, and budget constraints of the project objective. These actions include adding or changing resources to make up time and get back on schedule.
 
-10.  Think of a project in which you were involved and identify the stakeholders and what “stake” each had in the project.
+### 10.  Think of a project in which you were involved and identify the stakeholders and what “stake” each had in the project.
 
 Answers to this question will vary depending on the student. Check responses to be sure they include the individuals and entities involved in, or who may influence, or may be affected by a project and what stake each had in the project.
 
-11.  Describe how a global project can be more complex than a project performed within just one country. How might these elements affect the successful outcome of the global project?
+### 11.  Describe how a global project can be more complex than a project performed within just one country. How might these elements affect the successful outcome of the global project?
 
 Global projects have several unique influencing factors such as currency fluctuations and exchange rates, country-specific work codes and regulations, corporate joint ventures and partnerships creating entities with a presence and facilities in multiple countries, political relations between countries, and availability of high-demand workforce skills.
 
 Globalization changes the dynamics of the project and adds a layer of complexity that can adversely affect the project outcome if the project participants are not aware of what they might encounter in the way of cultural differences and multinational economic transactions.
 
-12.  List some benefits of using project management techniques.
+### 12.  List some benefits of using project management techniques.
 
 -   The ultimate benefit of implementing project management techniques is having a satisfied customer.
 
@@ -678,7 +678,7 @@ Globalization changes the dynamics of the project and adds a layer of complexity
 
 -   When projects are successful, everybody wins!
 
-13.  Consider a project in which you are currently involved (or in which you have recently been involved).
+### 13.  Consider a project in which you are currently involved (or in which you have recently been involved).
 
 a.  Describe the objectives, scope, schedule, cost, and any assumptions made.
 
